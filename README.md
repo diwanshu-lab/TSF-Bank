@@ -1,13 +1,13 @@
 # TSF Bank 🏦
 
 
-[Launch TSF Bank](http://tsfbank.rf.gd) 🏦
+[Launch TSF Bank](http://tsfbank.ct.ws) 🏦
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/jigar-sable/TSF-Bank)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/diwanshu-lab/TSF-Bank)&nbsp;
 ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=brightgreen&style=flat&logo=github)&nbsp;
-[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](https://github.com/jigar-sable/TSF-Bank)&nbsp;
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](https://github.com/diwanshu-lab/TSF-Bank)&nbsp;
 [![tsf-bank](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](http://tsfbank.rf.gd)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/jigar-sable/TSF-Bank)](https://github.com/jigar-sable/TSF-Bank)
+[![repo-size](https://img.shields.io/github/repo-size/jigar-sable/TSF-Bank)](https://github.com/diwanshu-lab/TSF-Bank)
 
 
 
@@ -18,11 +18,11 @@ Basic Banking System based on PHP and MySQL database.
 Made with basic HTML, CSS, JavaScript and backend with PHP.
 
 ## Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/TSF-Bank/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/TSF-Bank/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/TSF-Bank/search?l=javascript)
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/diwanshu-lab/TSF-Bank/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/diwanshu-lab/TSF-Bank/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/diwanshu-lab/TSF-Bank/search?l=javascript)
 [![bs](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jigar-sable/TSF-Bank/search?l=php)
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/diwanshu-lab/TSF-Bank/search?l=php)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ## Sneak Peek of Home Page 🙈 :
@@ -33,9 +33,12 @@ Made with basic HTML, CSS, JavaScript and backend with PHP.
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.instagram.com/connect_with_diwan/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30">
+</a>
 
-© 2021 Jigar Sable
+
+© 2021 Diwanshu Yadav
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
