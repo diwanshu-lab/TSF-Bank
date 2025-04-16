@@ -1,0 +1,17 @@
+{
+    "name": "dev-developer/tsf-bank",
+    "description": "Basic Banking System based on PHP and MySQL database.",
+    "autoload": {
+        "psr-4": {
+            "DevDeveloper\\TsfBank\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Made with basic HTML, CSS, JavaScript and backend with PHP."
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
